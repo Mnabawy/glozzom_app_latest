@@ -1,0 +1,56 @@
+#jumbotron{
+  height: 600px;
+}
+#img-carousel{
+  height: 10rem;
+
+}
+#carousel-item{
+  background: url('../img/image1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 450px;
+}
+.bg-jumbotron{
+  background: url('../img/lights.jpg') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+}
+.overlay-1{
+background:rgba(27, 26, 26, 0.7);
+background-size: cover;
+}
+.overlay{
+  background:rgba(27, 26, 26, 0.7);
+  background-size: cover;
+  }
+
+
+.what-we-do{
+  background: url('../img/media.jpg') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+}
+#about{
+  background: url('../img/image3.jpg') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  background-color:;
+}
+#about-what{
+  background-color: white;
+}
+#about-footer{
+  background-color: black;
+  color: white;
+}
+#services{
+  background: url('../img/image2.jpg') ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment:fixed;
+  
+}
